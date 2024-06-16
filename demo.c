@@ -54,7 +54,7 @@ static void init(void) {
                 [ATTR_vs_color0].format = SG_VERTEXFORMAT_FLOAT4
             }
         },
-        .label = "triangle-pipeline"
+        .label = "demo-pipeline"
     });
 
     // initial clear color
